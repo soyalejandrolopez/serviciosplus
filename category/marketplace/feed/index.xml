@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>marketplace &#8211; alejandropro.co</title>
+	<atom:link href="/category/marketplace/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Oct 2024 16:17:31 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/10/logo.png</url>
+	<title>marketplace &#8211; alejandropro.co</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Implantación de una web para una agencia de marketing que ofrece servicios de consultoría</title>
+		<link>/implantacion-de-una-web-para-una-agencia-de-marketing-que-ofrece-servicios-de-consultoria/</link>
+		
+		<dc:creator><![CDATA[alejandro]]></dc:creator>
+		<pubDate>Thu, 24 Oct 2024 06:08:24 +0000</pubDate>
+				<category><![CDATA[marketplace]]></category>
+		<guid isPermaLink="false">/?p=2001</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
